@@ -12,8 +12,8 @@ NERSC file location: /global/cfs/cdirs/lsst/groups/WL/projects/wl-massmap/IA-inf
 
 ### Other utilities: 
 
-https://github.com/LSSTDESC/HOS-Y1-prep/blob/master/hack_flat2curved.ipynb
-https://github.com/chihway/massmapping/blob/master/utils/massmapping_utils.py
-https://github.com/LSSTDESC/WLMassMap
-https://lenstools.readthedocs.io/en/latest/
-https://glass.readthedocs.io/stable/
+* https://github.com/LSSTDESC/HOS-Y1-prep/blob/master/hack_flat2curved.ipynb
+* https://github.com/chihway/massmapping/blob/master/utils/massmapping_utils.py
+* https://github.com/LSSTDESC/WLMassMap
+* https://lenstools.readthedocs.io/en/latest/
+* https://glass.readthedocs.io/stable/
