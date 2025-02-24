@@ -2,9 +2,8 @@
 Mass mapping methods with the HACC catalog
 
 ### Methods in this repo:
-* Kaiser Squires (flat sky)
-    * see https://github.com/LSSTDESC/SkySim5000_IA_infusion/blob/main/kaiser_squires.py for full sky
-* Wiener filter (flat sky)
+* Kaiser Squires (curved and flat sky)
+* Wiener filter (flat sky only)
 
 More examples: https://github.com/CosmoStat/cosmostat/blob/master/pycs/astro/wl/mass_mapping.py
 
