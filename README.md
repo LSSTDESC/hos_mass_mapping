@@ -1,6 +1,11 @@
 # hos_mass_mapping
-Mass mapping methods for the higher-order statistics team (currently only flat-sky code)
+Mass mapping methods with the HACC catalog
 
-Methods in this repo:
-* Kaiser Squires
-* Wiener filter
+### Methods in this repo:
+* Kaiser Squires (flat sky)
+* Wiener filter (flat sky)
+
+More examples: https://github.com/CosmoStat/cosmostat/blob/master/pycs/astro/wl/mass_mapping.py
+
+### HACC catalog for HoS 
+NERSC file location: /global/cfs/cdirs/lsst/groups/WL/projects/wl-massmap/IA-infusion/BCM/dmb/GalCat/GalCat_tomo3_All_nshells51_0.6GpAM_RA_Dec_g1_g2_w_z.asc
